@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "App made using React Native for the ParkBird challenge.",
+    "githubUrl": "https://github.com/mariusailisoaie/Coding-Challenge"
   }
 }
